@@ -33,10 +33,13 @@ console.log(total.toFixed(4));
 
 
 
+var price =33;
+price += 50;
+console.log(price)
 
-
-
-
+var fridge =parseInt("200");
+fridge *= 60;
+console.log(fridge)
 
 
 
