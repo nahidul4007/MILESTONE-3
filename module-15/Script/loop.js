@@ -49,5 +49,18 @@ while(i>=11){
     i--
 }
 console.log("your while sum is :",whil)
+console.log("---------------------------------------")
 
 
+// different way to use loop 
+var sum=0;
+for(let num=0; num<=20; num++){
+    if(num%3===0){
+        console.log(num)
+        sum=sum+num
+    }
+    else{
+        console.log('none')
+    }
+}
+console.log(sum)
