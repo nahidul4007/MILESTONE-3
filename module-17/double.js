@@ -9,3 +9,4 @@ console.log('nothing ooooooooooooo');
 doubleit(70);
 const number=99;
 doubleit(number);
+doubleit(8888);
