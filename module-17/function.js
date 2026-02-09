@@ -11,7 +11,10 @@ function brushTeeth(){
     console.log("pic up the brush");
     console.log("brush");
 }
+
 brushTeeth();
 fanOffkor();
 brushTeeth();
+
+
 
